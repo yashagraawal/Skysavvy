@@ -1,5 +1,5 @@
 Title: Weather Application - SkySavvy
-Live at: https://skysavvy-red.vercel.app/ 
+Live at: https://skysavvy-mdjg2s6vu-yashagrawals-projects.vercel.app/
 
 Abstract:
 SkySavvy is a weather application designed to provide real-time weather updates based on user location or search query. This document elucidates the functionality and workflow of the SkySavvy application.
